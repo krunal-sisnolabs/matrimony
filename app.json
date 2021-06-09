@@ -1,0 +1,12 @@
+{
+  "name": "matrimony",
+  "displayName": "matrimony",
+  "expo": {
+    "name": "matrimony",
+    "slug": "matrimony",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
